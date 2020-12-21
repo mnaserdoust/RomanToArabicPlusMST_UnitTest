@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mehrd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mehrd\\.nuget\\packages"
+    ]
+  }
+}
